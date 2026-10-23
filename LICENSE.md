@@ -1,5 +1,5 @@
 ПРОПРИЕТАРНАЯ ЛИЦЕНЗИЯ
-Copyright (c) 2026 InquisitoR
+Copyright (c) 2026 iinquisitor
 
 Все права защищены.
 
