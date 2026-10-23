@@ -8,7 +8,8 @@
 в «малые заглавные» буквы (small caps) с сохранением всех цветовых кодов и 
 тегов плагинов.
 
-<img width="1404" height="735" alt="image" src="https://github.com/user-attachments/assets/26f17fc0-5d4e-486f-8a73-83cf4bbf7bc4" />
+<img width="1404" height="735" alt="image" src="https://github.com/user-attachments/assets/57c86399-34e2-4b20-b49c-1103ab80fe6a" />
+
 
 
 ## Что это
