@@ -8,7 +8,8 @@
 в «малые заглавные» буквы (small caps) с сохранением всех цветовых кодов и 
 тегов плагинов.
 
-![Скриншот](docs/screenshot.png)
+![Скриншот](<img width="1404" height="735" alt="image" src="https://github.com/user-attachments/assets/7b6f94e2-5d8c-470b-974d-21b2f41d600c" />
+)
 
 ## Что это
 
