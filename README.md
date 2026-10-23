@@ -113,7 +113,7 @@
 
 | Светлая тема | Тёмная тема |
 |---|---|
-| <img width="1409" height="739" alt="image" src="https://github.com/user-attachments/assets/1c4baa7d-89d0-4dc6-ac77-d01aef31edb8" /> | <img width="1411" height="742" alt="image" src="https://github.com/user-attachments/assets/97b65009-7b73-40ae-9c01-dacadc02be88" /> |
+| <img width="1400" height="730" alt="image" src="https://github.com/user-attachments/assets/b10ff8e5-3744-42ea-ba12-0325eafa71f7" /> | <img width="1400" height="730" alt="image" src="https://github.com/user-attachments/assets/13362e9c-3ad6-460b-8e0e-b5f4d915321d" /> |
 
 ## Установка
 
